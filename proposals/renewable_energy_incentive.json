@@ -1,0 +1,14 @@
+{
+  "law_id": "AKP-LAW-00001",
+  "version": "v1.2",
+  "title": "Yenilenebilir Enerji Micro-Grid Teşvik Yasası",
+  "description": "Kendi enerjisini üreten ve komşularıyla paylaşan hanelere %15 vergi indirimi uygulanması ve bu işlemin Open Ledger üzerinden otomatik mahsuplaşılması.",
+  "scope": "ECONOMY",
+  "simulation_results": {
+    "success_rate": 87.5,
+    "environmental_impact": 18.2,
+    "economic_efficiency": 4.1
+  },
+  "expiration_date": "2030-01-01T00:00:00Z",
+  "status": "ACTIVE"
+}

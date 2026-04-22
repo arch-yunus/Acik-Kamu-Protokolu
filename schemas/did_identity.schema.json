@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Citizen DID Schema",
+  "description": "Decentralized Identity structure for AKP citizens",
+  "type": "object",
+  "properties": {
+    "did": { "type": "string", "pattern": "^did:akp:[a-f0-9]{64}$" },
+    "merit_score": { "type": "number", "minimum": 0 },
+    "competencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": { "type": "string" },
+          "weight": { "type": "number", "minimum": 1.0, "maximum": 3.0 },
+          "verified_by": { "type": "string" }
+        }
+      }
+    },
+    "delegations": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["did", "merit_score"]
+}
