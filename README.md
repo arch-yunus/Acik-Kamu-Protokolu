@@ -6,7 +6,7 @@
 
 > **"Devlet bir otorite değil, toplumun ortak aklını çalıştıran açık kaynaklı bir işletim sistemidir."**
 
-**Açık Kamu Protokolü (AKP)**, hantal, bürokratik ve kapalı kapılar ardında işleyen yüzlerce yıllık devlet geleneğini tamamen reddeden; yerine veriye, liyakate ve kitle kaynaklı (crowdsourced) katılıma dayanan yeni nesil bir **Kamu İşletim Sistemi** mimarisidir.
+**Açık Kamu Protokolü (AKP)**, devlet geleneğini hantallıktan kurtaran, ancak egemenlik hakkına ve vatandaşın demokratik iradesine sonuna kadar saygılı bir yapı sunar. Hantal, bürokratik ve kapalı kapılar ardında işleyen yüzlerce yıllık devlet geleneğini tamamen reddeden; yerine veriye, liyakate ve kitle kaynaklı (crowdsourced) katılıma dayanan yeni nesil bir **Kamu İşletim Sistemi** mimarisidir.
 
 ---
 
@@ -15,6 +15,7 @@
 Geleneksel sistemlerde karar alma mekanizmaları dar bir azınlığın tekelindedir. AKP'de ise devlet, bir "hizmet sağlayıcı" ve "moderatör" konumundadır. Sorunları çözen asıl güç **Ortak Akıl** ağıdır.
 
 *   **Radikal Şeffaflık:** Güvenlik ve mahremiyet vatandaşa, mutlak şeffaflık ise devlete aittir. Kamunun her kuruşu, her kararı ve her algoritması halkın denetimine açıktır.
+*   **Egemenlik ve Güven Karşılığı:** Devletin asli egemenliği, dijitalleşme ile zayıflamaz; aksine sistemin şeffaf ve hesap verebilir olmasıyla halk nezdinde daha güçlü bir meşruiyet kazanır. Egemenlik hakkı, algoritmaların değil, algoritmalara yön veren halkın iradesindedir.
 *   **Liyakat Temelli Katılım:** Sesin yüksekliği değil, bilginin derinliği kritiktir. Sistem, uzmanlığı ve toplumsal katkıyı algoritmik olarak ödüllendirir.
 
 ---
